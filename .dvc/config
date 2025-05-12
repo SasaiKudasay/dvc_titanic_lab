@@ -1,0 +1,6 @@
+[core]
+    remote = yandex_remote
+['remote "yandex_remote"']
+    url = https://webdav.yandex.ru/dvc_storage/
+    user = SasaiKudasay
+    password = mdmyqyzrvqrtncld
